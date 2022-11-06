@@ -1,3 +1,6 @@
+# Preface
+This guide is not my work. [It was originally submitted to speedrun.com](https://www.speedrun.com/dr2gd/guide/0d30u) and created by [speedwerd](https://www.speedrun.com/user/speedwerd). 
+I found it a bit hard to follow while trying to run through the game quickly, so I reformatted the guide to give every step a number to easily follow.
 # Table Of Contents
 1. [Prologue](#prologue)
 1. [Chapter 1](#chapter-1)
