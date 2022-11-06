@@ -1,6 +1,4 @@
-@import "style.css"
-
-#Table Of Contents
+# Table Of Contents
 1. [Prologue](#prologue)
 1. [Chapter 1](#chapter-1)
 1. [Chapter 1 Investigation](#chapter-1-investigation)
@@ -18,7 +16,7 @@
 1. [Chapter 6](#chapter-6)
 1. [Chapter 6 Class Trial](#chapter-6-class-trial)
 
-#Prologue
+# Prologue
 1. Skip opening cutscene
 1. Spam past green txt, try to stop, if blue message just cycle through
 1. Look at tree, monitor, ocean (pan left) and camera (pan left)
@@ -84,7 +82,7 @@
 1. Skip cutscene when robots appear
 1. Skip cutscene after Monokuma says "Lets Go"
 1. Skip reopening cutscene
-#Chapter 1
+# Chapter 1
 1. After monokuma message
 1. Go To Cottage (left of pool)
 1. After MKM
@@ -123,7 +121,7 @@
 1. When in Hall, head outside to talk to Chiaki
 1. After zoom in on table
 1. Look at table
-#Chapter 1 Investigation
+# Chapter 1 Investigation
 1. Investigate Duralumin Case
 1. Talk to Gundham
 1. Talk to Mahiru
@@ -134,39 +132,39 @@
 1. Examine the bloodstain
 1. Examine the body
 1. Talk to Nagito
-#####HALLWAY
+##### HALLWAY
 1. Turn Right
 1. Talk to Ibuki
 1. Turn/ Move Left
 1. Talk to Sonia
-#####KITCHEN
+##### KITCHEN
 1. Investigate Kitchen Equipment List
 1. Examine the Dishes on the left
 1. Talk to Teruteru
-#####STORAGE ROOM
+##### STORAGE ROOM
 1. Examine the irons
 1. Examine the laundry bin
 1. Stacked Boxes
 1. Sheets on Right
-#####OFFICE
+##### OFFICE
 1. Talk to Kazuichi
 1. Examine Desk
 1. Case
 1. Examine the A/C Control
 1. Talk to Peko
 1. Black Circuit Box
-#####OUTSIDE
+##### OUTSIDE
 1. Talk to Chiaki (Auto)
-#####VICTIM'S COTTAGE (R, 2R)
+##### VICTIM'S COTTAGE (R, 2R)
 1. Examine the envelope
-#####HOTEL HALLWAY
+##### HOTEL HALLWAY
 1. Talk to Nekomaru
-#####DINING ROOM
+##### DINING ROOM
 1. Talk to Mikan
 1. Talk to Mahiru
 1. Head right to Monokuma Rock
 1. Inspect head of rock
-#Chapter 1 Class Trial
+# Chapter 1 Class Trial
 1. Use "Bloodstain under the Table" bullet on "moved the body".
 1. Present the Knife (Down, \<X Button>)
 1. Use "Night Vision Goggles" bullet on "Byakuya couldn't see". (9)
@@ -185,7 +183,7 @@
 1. Say "Ultimate Lucky Student" (1st one)
 1. Use "Mikan's Autopsy Report" bullet on "knife he hid". (7)
 1. Present Ibuki's Account (Down 😎
-#####Break
+##### Break
 1. Say "Because there's no blood on Nagito". (3rd)
 1. Present Storage Room Tablecloth (Down 10)
 1. Spell "Under the floor".
@@ -200,7 +198,7 @@
 1. Spell "Iron Skewer"
 1. Break shields, MEAT ON THE BONE
 1. Closing Argument (See Below)
-#####CLOSING ARGUMENT MISSING PANELS
+##### CLOSING ARGUMENT MISSING PANELS
 1. A knife glowing in the dark...? - Page 8 Panel 1
 1. Big meat on the bone. - Page 5 Panel 2
 1. Borrowing the tablecloth. - Page 6 Panel 2
@@ -214,7 +212,7 @@
 1. The irons turned on - Page 2 Panel 1
 1. The Ultimate Musician has amazing hearing! - Page 10 Panel 1
 1. Skip Vote Cutscene and Death Cutscene
-#Chapter 2
+# Chapter 2
 1. Go Outside after Restaurant talk
 1. \<Y Button>
 1. \<A Button>
@@ -326,7 +324,7 @@
 1. Mikan
 1. Right on Dpad twice to reach Monokuma Rock
 1. Click on rock head to start trail
-#Chapter 2 Class Trial
+# Chapter 2 Class Trial
 1. Answer a series of questions (See Below)
 1. QUESTION 1: Who is GIRL A? ANSWER: Mikan (Down 2)
 1. QUESTION 2: She's right... the one who said that was? ANSWER: GIRL B (Down 3)
@@ -349,7 +347,7 @@
 1. Say "She can't get dressed by herself." (Down3)
 1. Present the Letter on Mahiru. (Up 3)
 1. Say "Both Letters." (Down 1)
-#####BREAK
+##### BREAK
 1. Logic Dive. See answers below:
 1. QUESTION 1: When did the killer arrive at the beach house?
 1. ANSWER 1: Before Hiyoko arrived.
@@ -366,7 +364,7 @@
 1. Spell out "Bamboo Sword".
 1. PTA! Use the end words BAM BOO SWORD BAG (BAMBOO SWORD BAG).
 1. Closing Argument (See Below).
-#####CLOSING ARGUMENT MISSING PANELS
+##### CLOSING ARGUMENT MISSING PANELS
 1. A pretty anime girl mask. - Page 5 Panel 1
 1. Footprints in the sand...? - Page 7 Panel 2
 1. Hiyoko arrives at the Beach House...? - Page 3 Panel 1
@@ -384,7 +382,7 @@
 1. Select Fuyuhiko Kuzuryu (Right 4)
 1. Present the "Ending Prize". (Up 9)
 1. Skip Execution
-#Chapter 3
+# Chapter 3
 1. Leave
 1. Go to restaurant
 1. Move cam left and look at memorial
@@ -460,13 +458,13 @@
 1. Leave
 1. Left on Dpad once
 1. enter venue
-#Chapter 3 Investagation
-#####MUSIC VENUE
+# Chapter 3 Investagation
+##### MUSIC VENUE
 1. Talk to Mikan
 1. Talk to Fuyuhiko
 1. Examine smashed camera on the floor
 1. Head to Stage
-#####STAGE
+##### STAGE
 1. Talk to Chiaki
 1. Examine Stepladder
 1. Examine Candle
@@ -478,19 +476,19 @@
 1. Examine A/C unit to the far right on wall
 1. Examine Lighting Unit to the far right
 1. Move to Storage Room
-#####STORAGE ROOM
+##### STORAGE ROOM
 1. Talk to Nagito
 1. Examine Shelves on the right
 1. Examine Mirror on the left
-#####STAGE
+##### STAGE
 1. Talk to Mikan
 1. Move to Movie Theater (Left dpad x3)
-#####MOVIE THEATER
+##### MOVIE THEATER
 1. Talk to Nagito
 1. Examine Goods Counter
 1. Go watch the movie.
 1. Head to Motel (Left dpad x2)
-#####MOTEL
+##### MOTEL
 1. Talk to Gundham
 1. Talk to Fuyuhiko
 1. Enter Hiyoko's Room (Middle door)
@@ -498,7 +496,7 @@
 1. Examine Sink
 1. Examine Bed
 1. Head to the Hospital (Left dpad x2)
-#####HOSPITAL
+##### HOSPITAL
 1. Examine Surveillance Unit
 1. Talk to Kazuichi
 1. Examine Board
@@ -510,7 +508,7 @@
 1. Left on Dpad x3
 1. Enter Rock
 1. Click on Rock Head
-#Chapter 3 Class Trial
+# Chapter 3 Class Trial
 1. Use "Movie Invitation Ticket" bullet on "imitating the movie...". (10)
 1. Use "Semitransparent Glob" on "from the inside". (2)
 1. Say Glue.
@@ -524,7 +522,7 @@
 1. something". (6)
 1. Use "Smudge on the floor" blade on the "blood" comment. (1_4)
 1. Use "Mikan's Account" on "nobody has an alibi". (11)
-#####Break
+##### Break
 1. Use the "Motel Room Key" bullet on "went of her own free will". (8)
 1. Advance to the third section and use "Sonia's Account" blade
 1. on "fought the killer". (3_4 or 5)
@@ -546,7 +544,7 @@
 1. Borrow the "killer's mistake" bullet on "camera angle". (17) (12)
 1. PTA! Use the words "THEATER BONUS PRIZE".
 1. Closing Argument (See Below).
-#####CLOSING ARGUMENT MISSING PANELS
+##### CLOSING ARGUMENT MISSING PANELS
 1. The killer ripped off the music venue's wallpaper! - Page 4 Panel 1
 1. The ripped piece on the baton lighting. - Page 4 Panel 2
 1. The video of the broadcasted hanging. - Page 1 Panel 1
@@ -555,7 +553,7 @@
 1. What's left of the surveillance camera unit... - Page 5 Panel 1
 1. Skip Vote
 1. Skip Death
-#Chapter 4
+# Chapter 4
 1. Exit Restaurant
 1. \<Y Button>
 1. \<A Button>
@@ -622,8 +620,8 @@
 1. Exit
 1. Downstairs
 1. Grape Door
-#Chapter 4 Investigation
-#####GRAPE TOWER
+# Chapter 4 Investigation
+##### GRAPE TOWER
 1. Examine Body (Zoom in)
 1. Examine Head
 1. Examine Oil above head
@@ -636,10 +634,10 @@
 1. Talk to Chiaki
 1. Talk to Sonia
 1. Examine Strawberry Door
-#####GRAPE HOUSE
+##### GRAPE HOUSE
 1. Head to 2nd Floor Lobby
 1. Answer Phone
-#####STRAWBERRY HOUSE
+##### STRAWBERRY HOUSE
 1. Talk to Kuzuichi
 1. Talk to Fuyuhiko
 1. Head down to 1st Floor
@@ -652,17 +650,17 @@
 1. Fridge
 1. Hatch
 1. Talk to Nagito twice
-#####GRAPE HOUSE
+##### GRAPE HOUSE
 1. Head downstairs to 1st Floor
 1. Head to Grape Tower
-#####GRAPE TOWER
+##### GRAPE TOWER
 1. Talk to Kazuichi
 1. Examine Mechamura's Chest
 1. Talk to Nagito
 1. Take Elevator
 1. Go to Strawberry Doors
 1. Check Grape Door
-#Chapter 4 Class Trial
+# Chapter 4 Class Trial
 1. Use "New-Looking Hammer" bullet on "beat the crap". (6)
 1. Say The broken pillar.
 1. Use "Pillar Fragments" bullet on "tipping the pillar over". (4)
@@ -686,7 +684,7 @@
 1. Use "Kazuichi's Account" bullet on "vertically". (3)
 1. Say Eight-Sided Shape
 1. Point out the top of Grape House (the green part).
-#####BREAK
+##### BREAK
 1. Say Falling.
 1. Use the "Good Night Button" bullet on "moving object". (9)
 1. Use the "wire" bullet on "doorknob on the floor". (9)
@@ -709,7 +707,7 @@
 1. Use the "wire" blade here on "maelstrom of blind confusion".
 1. Panic Talk Action. The word here is THE FOUR DARK DEVAS.
 1. Closing Argument (See Below).
-#####CLOSING ARGUMENT MISSING PANELS
+##### CLOSING ARGUMENT MISSING PANELS
 1. Alarm set for 5:30 AM. It's 2:40 AM right now... (Page 1 Panel 1)
 1. Alarm set for 5:30 AM. It's 5:00 AM right now... (Page 2 Panel 2)
 1. Fuyuhiko can't sleep... (Page 2 Panel 1)
@@ -722,7 +720,7 @@
 1. There's a huge hammer. (Page 7 Panel 1)
 1. Skip Vote
 1. Skip Death
-#Chapter 5
+# Chapter 5
 1. LEFT
 1. Sea King Industries
 1. Talk to Kazuichi
@@ -818,8 +816,8 @@
 1. Fire Grenades
 1. Look at open door
 1. look at back of warehouse
-#Chapter 5 Investigation
-#####FACTORY STOREHOUSE
+# Chapter 5 Investigation
+##### FACTORY STOREHOUSE
 1. Talk to Chiaki
 1. Investigate Body (Move closer)
 1. Investigate Knife
@@ -838,9 +836,9 @@
 1. Investigate Monokuma Panels
 1. Investigate MP3 Player (Blue Box)
 1. Head to Factory Interior
-#####FACTORY INTERIOR
+##### FACTORY INTERIOR
 1. Talk to Sonia (right side)
-#####MILITARY BASE (RIGHT)
+##### MILITARY BASE (RIGHT)
 1. Inspect two trucks on left
 1. NEZUMI CASTLE (\<Y Button>, \<A Button>, \<L1 Button>, \<A Button>, RIGHT x2):
 1. Inspect back wall
@@ -851,7 +849,7 @@
 1. Investigate Bookcase
 1. RIGHT
 1. \<A Button>
-#Chapter 5 Class Trial
+# Chapter 5 Class Trial
 1. Use "Duct Tape" bullet on "tortured Nagito". (4)
 1. Use "Duct Tape" blade on "after they killed him". (2_4)
 1. Use the "Monokuma Panel" bullet and CONSENT with "opening
@@ -871,9 +869,9 @@
 1. Answer 1: Above Nagito
 1. Answer 2: A Ceiling Girder
 1. Answer 3: The spears cord.
-1. Present the Monokuma File #5. (Just press \<X Button>)
+1. Present the Monokuma File # 5. (Just press \<X Button>)
 1. The word here is CAUSE OF DEATH.
-#####BREAK
+##### BREAK
 1. Use "Monokuma's Special Poison" bullet on "something that
 1. cannon be seen" statement. (7)
 1. Logic Dive (See Below).
@@ -888,7 +886,7 @@
 1. Say Nagito Komaeda.
 1. Say Make someone throw the explosive.
 1. Closing Argument (See Below).
-#####CLOSING ARGUMENT MISSING PANELS
+##### CLOSING ARGUMENT MISSING PANELS
 1. I'll grab the spear cord with my left hand. (Page 6 Panel 1)
 1. I'll just put this oil lighter here. (Page 4 Panel 1)
 1. I'll tie the burned rope to my right hand. (Page 5 Panel 1)
@@ -913,7 +911,7 @@
 1. RIGHT
 1. Enter ruins
 1. Skip cutscene
-#Chapter 6
+# Chapter 6
 1. Exit classroom
 1. Go to the Gym
 1. Exit Gym
@@ -953,7 +951,7 @@
 1. Big Object
 1. Exit
 1. Go to red doors
-#Chapter 6 Class Trial
+# Chapter 6 Class Trial
 1. Spell VIRTUAL here.
 1. Say Our School Memories.
 1. Use the "List of Subjects" bullet and CONSENT with "lived that
